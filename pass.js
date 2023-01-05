@@ -34,3 +34,9 @@ console.log(obj2);
 // { name: 'vishal', job: 'Metaverse Developer Intern', status: false }
 // { name: 'vishal', job: 'Metaverse Developer Intern', status: true }
 // { name: 'vishal', job: 'Metaverse Developer Intern', status: true }
+
+
+
+let ar1 = [1,2,3];
+let ar2 = [].concat(ar1);  // only for copy
+

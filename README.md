@@ -20,3 +20,8 @@ Execution Context
                               
                               
                 -Execution Phase
+
+
+Primitive and non primitive : 
+                -Number, Symbol, Null, Undefine, String, Boolean
+                -Object (Array, Function)
